@@ -102,4 +102,4 @@ public class DigitalClock extends javax.swing.JFrame {
     private javax.swing.JLabel lbTime;
     // End of variables declaration//GEN-END:variables
 }
-hihihi
+co ho id dog
